@@ -1,0 +1,16 @@
+Algoritmo CdtBancario
+	Definir cantidad, porsentajeInteres, valorIntereses, valorImpuesto, netoPagar Como Real
+	Definir periodo Como Entero
+	Imprimir "Ingrese la cantidad de dinero: "
+	Leer cantidad
+	Imprimir "Ingrese el periodo en días: "
+	Leer periodo
+	Imprimir "Ingresentaje de interés: "
+	Leer porsentajeInteres
+	valorIntereses = (cantidad*porsentajeInteres/100*periodo)/360
+	valorImpuesto = valorIntereses*0.07
+	netoPagar = cantidad+valorIntereses-valorImpuesto
+	Imprimir "Intereses ganados: ", valorIntereses
+	Imprimir "Valor del impuesto: ", valorImpuesto
+	Imprimir "Total a pagar del cliente: ", netoPagar
+FinAlgoritmo

@@ -1,0 +1,12 @@
+Algoritmo change
+	Definir a, b, temp Como Cadena
+	Imprimir "Inserte dos palabras a intercambiar:"
+	Imprimir "Inserte A: "
+	Leer A
+	Imprimir "Inserte B: "
+	Leer B
+	temp = a
+	a = b
+	b = temp
+	Imprimir "sus valores son: A=", a, " b=", b
+FinAlgoritmo

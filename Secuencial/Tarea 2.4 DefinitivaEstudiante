@@ -1,0 +1,13 @@
+Algoritmo DefinitivaEstudiante
+	Definir nota1, nota2, nota3, nota4, definitiva Como Real
+	Imprimir "Ingrese la nota 1 del estudiante: "
+	Leer nota1
+	Imprimir "Ingrese la nota 2 del estudiante: "
+	Leer nota2
+	Imprimir "Ingrese la nota 3 del estudiante: "
+	Leer nota3
+	Imprimir "Ingrese la nota 4 del estudiante: "
+	Leer nota4
+	definitiva = (nota1+nota2+nota3+nota4)/4
+	Imprimir "La definitiva es: ", definitiva
+FinAlgoritmo
