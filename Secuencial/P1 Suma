@@ -1,0 +1,9 @@
+Algoritmo Suma
+	Definir num1, num2, numF Como Real
+	Imprimir "Ingrese su primer número: "
+	Leer num1
+	Imprimir "Ingrese su segundo número: "
+	Leer num2
+	numF = num1+num2
+	Imprimir "La suma de los dos numeros es: ", numF
+FinAlgoritmo

@@ -1,0 +1,9 @@
+Algoritmo cuadrado_y_cubo
+	Definir num, cuadrado, cubo Como Real
+	Imprimir "Ingrese su número: "
+	Leer num
+	cuadrado = num^2
+	cubo = num^3
+	Imprimir "El cuadrado de su número es: ", cuadrado
+	Imprimir "Y el triple del mismo es: ", cubo
+FinAlgoritmo

@@ -1,0 +1,10 @@
+Algoritmo moduloSimple
+	Definir a, b, c Como Real
+	Imprimir "Inserte dos valores para la operación modulo:"
+	Imprimir "Inserte el valor 1 (dividendo):"
+	Leer a
+	Imprimir "Inserte el valor 2 (divisor):"
+	Leer b
+	c = a MOD b
+	Imprimir "El residuo de la operación modulo es: ", c
+FinAlgoritmo

@@ -1,0 +1,7 @@
+Algoritmo siguienteNumero
+	Definir inicial, final Como Entero
+	Imprimir "Introduzca su número (entero): "
+	Leer inicial
+	final = 1+inicial
+	Imprimir "El siguiente numero al introducido es: ", final
+FinAlgoritmo
