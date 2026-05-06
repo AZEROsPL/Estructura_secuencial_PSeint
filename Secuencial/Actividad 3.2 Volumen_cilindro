@@ -1,9 +1,0 @@
-Algoritmo Volumen_cilindro
-	Definir radio, altura Como Real
-	Imprimir "Ingrese su radio: "
-	Leer radio
-	Imprimir "Ingrese su altura: "
-	Leer altura
-	volumen = PI*radio^2*altura
-	Imprimir "El volumen de su cilindro es: ", volumen
-FinAlgoritmo

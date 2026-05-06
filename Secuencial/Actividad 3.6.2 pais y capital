@@ -1,8 +1,0 @@
-Algoritmo pais_y_capital
-	Definir pais, capital Como Cadena
-	Imprimir "Ingrese país: "
-	Leer pais
-	Imprimir "Ingrese capital: "
-	Leer capital
-	Imprimir capital, " es la capital de ", pais
-FinAlgoritmo

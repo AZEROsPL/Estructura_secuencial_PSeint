@@ -1,9 +1,0 @@
-Algoritmo Hipotenusa
-	Definir cat1, cat2, hipo Como Real
-	Imprimir "Introduce el primer cateto: "
-	Leer cat1
-	Imprimir "Introduce el segundo cateto: "
-	Leer cat2
-	hipo = Raiz(cat1^2+cat2^2)
-	Imprimir "La hipotenusa del triangulo es: ", hipo
-FinAlgoritmo

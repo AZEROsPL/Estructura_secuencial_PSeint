@@ -1,9 +1,0 @@
-Algoritmo triple_y_doble
-	Definir num, doble, triple Como Real
-	Imprimir "Ingrese su número: "
-	Leer num
-	doble = 2*num
-	triple = 3*num
-	Imprimir "El doble de su número es: ", doble
-	Imprimir "Y el triple del mismo es: ", triple
-FinAlgoritmo

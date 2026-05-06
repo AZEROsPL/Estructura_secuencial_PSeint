@@ -1,8 +1,0 @@
-Algoritmo numero10Al50
-	Definir num1 Como entero
-	Definir num2 Como real
-	num1 = Aleatorio(9, 51)
-	Imprimir "El numero al azar generado fue: ", num1
-	num2 = num1*0.85
-	Imprimir "Al disminuir en 15% es: ", num2
-FinAlgoritmo

@@ -1,7 +1,0 @@
-Algoritmo Conversion_calor
-	Definir celcius, farenheit Como Real
-	Imprimir "Introduce la temperatura en grados Celcius: "
-	Leer celcius
-	farenheit = (9/5)*celcius+32
-	Imprimir "La temperatura en Farenheit es: ", farenheit
-FinAlgoritmo
